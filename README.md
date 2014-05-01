@@ -12,7 +12,11 @@ The [Foundation 5](http://foundation.zurb.com) template for [Sketch 3](http://bo
 
 ![Forms](https://raw.githubusercontent.com/stephenway/sketch-foundation-kit/master/images/forms.png)
 
+![Buttons](https://raw.githubusercontent.com/stephenway/sketch-foundation-kit/master/images/buttons.png)
+
 ![Typography](https://raw.githubusercontent.com/stephenway/sketch-foundation-kit/master/images/typography.png)
+
+![System](https://raw.githubusercontent.com/stephenway/sketch-foundation-kit/master/images/system.png)
 
 
 ## Document Structure
