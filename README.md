@@ -1,8 +1,8 @@
-![Project Image](https://raw.githubusercontent.com/stephenway/sketch-foundation-kit/master/images/project-image.jpg)
+![Project Image](https://raw.githubusercontent.com/stephenway/sketch-foundation-kit/master/images/project-image.png)
 
 # Sketch Foundation Kit
 
-The [Foundation 5](http://foundation.zurb.com) template for [Sketch 3](http://bohemiancoding.com/sketch/).
+The [Foundation for Sites](http://foundation.zurb.com) template for [Sketch 3](http://bohemiancoding.com/sketch/).
 
 ### [Download the latest release here](https://github.com/stephenway/sketch-foundation-kit/releases).
 
