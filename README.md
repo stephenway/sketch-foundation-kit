@@ -6,17 +6,17 @@ The [Foundation for Sites](http://foundation.zurb.com) template for [Sketch 3](h
 
 ### [Download the latest release here](https://github.com/stephenway/sketch-foundation-kit/releases).
 
-![Navigation](https://raw.githubusercontent.com/stephenway/sketch-foundation-kit/master/images/navigation.jpg)
+![Navigation](https://raw.githubusercontent.com/stephenway/sketch-foundation-kit/master/images/Navigation.jpg)
 
-![Media](https://raw.githubusercontent.com/stephenway/sketch-foundation-kit/master/images/media.jpg)
+![Media](https://raw.githubusercontent.com/stephenway/sketch-foundation-kit/master/images/Media.jpg)
 
-![Forms](https://raw.githubusercontent.com/stephenway/sketch-foundation-kit/master/images/forms.jpg)
+![Forms](https://raw.githubusercontent.com/stephenway/sketch-foundation-kit/master/images/Forms.jpg)
 
-![Buttons](https://raw.githubusercontent.com/stephenway/sketch-foundation-kit/master/images/buttons.jpg)
+![Buttons](https://raw.githubusercontent.com/stephenway/sketch-foundation-kit/master/images/Buttons.jpg)
 
-![Typography](https://raw.githubusercontent.com/stephenway/sketch-foundation-kit/master/images/typography.jpg)
+![Typography](https://raw.githubusercontent.com/stephenway/sketch-foundation-kit/master/images/Typography.jpg)
 
-![System](https://raw.githubusercontent.com/stephenway/sketch-foundation-kit/master/images/system.jpg)
+![System](https://raw.githubusercontent.com/stephenway/sketch-foundation-kit/master/images/System.jpg)
 
 
 ## Document Structure
