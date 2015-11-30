@@ -28,6 +28,13 @@ The document has 2 pages, as follows:
 1.	Welcome page (this one), with some default artboards for Responsive Web Design
 2.	A collection of all symbols available in the document
 
+## In the Wild
+
+If you happen to have a finished design based off this template, feel free to share it and it will get featured on this repo. Just open an issue.
+
+## Contributing
+
+Pull requests and issues are encouraged. Please use the Zurb site as your reference when suggesting something.
 
 ## License
 
