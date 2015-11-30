@@ -12,9 +12,11 @@ The [Foundation for Sites](http://foundation.zurb.com) template for [Sketch 3](h
 
 ![Forms](https://raw.githubusercontent.com/stephenway/sketch-foundation-kit/master/images/Forms.jpg)
 
-![Buttons](https://raw.githubusercontent.com/stephenway/sketch-foundation-kit/master/images/Buttons.jpg)
+![Controls](https://raw.githubusercontent.com/stephenway/sketch-foundation-kit/master/images/Controls.jpg)
 
 ![Typography](https://raw.githubusercontent.com/stephenway/sketch-foundation-kit/master/images/Typography.jpg)
+
+![Icons](https://raw.githubusercontent.com/stephenway/sketch-foundation-kit/master/images/Icons.jpg)
 
 ![System](https://raw.githubusercontent.com/stephenway/sketch-foundation-kit/master/images/System.jpg)
 
