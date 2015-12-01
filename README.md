@@ -6,6 +6,8 @@ The [Foundation for Sites](http://foundation.zurb.com) template for [Sketch 3](h
 
 ### [Download the latest release here](https://github.com/stephenway/sketch-foundation-kit/releases).
 
+## Symbols
+
 ![Navigation](https://raw.githubusercontent.com/stephenway/sketch-foundation-kit/master/images/Navigation.jpg)
 
 ![Media](https://raw.githubusercontent.com/stephenway/sketch-foundation-kit/master/images/Media.jpg)
