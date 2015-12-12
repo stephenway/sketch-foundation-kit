@@ -4,7 +4,7 @@
 
 The [Foundation for Sites](http://foundation.zurb.com) template for [Sketch 3](http://bohemiancoding.com/sketch/).
 
-### [Download the latest release here](https://github.com/stephenway/sketch-foundation-kit/releases).
+### [Download the latest release here >](https://github.com/stephenway/sketch-foundation-kit/releases).
 
 ## Symbols
 
