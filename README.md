@@ -36,7 +36,7 @@ If you happen to have a finished design based off this template, feel free to sh
 
 ## Contributing
 
-Pull requests and issues are welcome. Please use the [Zurb site](http://foundation.zurb.com/) as your reference when suggesting features or issues.
+Pull requests and issues are welcome. Please use the [Zurb Foundation site](http://foundation.zurb.com/) as your reference when suggesting features or issues.
 
 ## License
 
