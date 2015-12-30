@@ -1,11 +1,11 @@
-![Project Image](https://raw.githubusercontent.com/stephenway/sketch-foundation-kit/master/images/project-image.png)
-
 # Sketch Foundation Kit
 
 The [Foundation for Sites](http://foundation.zurb.com) template for [Sketch 3](http://bohemiancoding.com/sketch/).
 
 :arrow_down: [Download the Sketch Template](https://github.com/stephenway/sketch-foundation-kit/raw/master/sketch-foundation-kit.sketch) | :package: [Download Kit (.zip)](https://github.com/stephenway/sketch-foundation-kit/releases/download/2.0.1/sketch-foundation-kit.sketch.zip) | :star: [Changelog](https://github.com/stephenway/sketch-foundation-kit/releases)
 --- | --- | ---
+
+![Project Image](https://raw.githubusercontent.com/stephenway/sketch-foundation-kit/master/images/project-image.png)
 
 ## Symbols
 
