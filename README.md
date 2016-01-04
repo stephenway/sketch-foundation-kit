@@ -1,6 +1,6 @@
 # Sketch Foundation Kit
 
-The [Foundation for Sites](http://foundation.zurb.com) template for [Sketch 3](http://bohemiancoding.com/sketch/).
+The [Foundation for Sites](http://foundation.zurb.com) template for [Sketch 3](http://www.sketchapp.com/).
 
 :arrow_down: [Download the Sketch Template](https://github.com/stephenway/sketch-foundation-kit/raw/master/sketch-foundation-kit.sketch) | :package: [Download Kit (.zip)](https://github.com/stephenway/sketch-foundation-kit/releases/download/2.0.1/sketch-foundation-kit.sketch.zip) | :star: [Changelog](https://github.com/stephenway/sketch-foundation-kit/releases)
 --- | --- | ---
